@@ -1,0 +1,10 @@
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Kronometre Uygulaması\Kronometre Uygulaması\bin\Debug\Kronometre Uygulaması.exe.config
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Kronometre Uygulaması\Kronometre Uygulaması\bin\Debug\Kronometre Uygulaması.exe
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Kronometre Uygulaması\Kronometre Uygulaması\bin\Debug\Kronometre Uygulaması.pdb
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre_Uygulaması.Form1.resources
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre_Uygulaması.Properties.Resources.resources
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.exe
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Kronometre Uygulaması\Kronometre Uygulaması\obj\Debug\Kronometre Uygulaması.pdb
